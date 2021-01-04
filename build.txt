@@ -1,0 +1,3 @@
+displayName = Exxo Avalon Origins
+author = convicted tomatophile (Stevie), blahblahbal
+version = 0.1
